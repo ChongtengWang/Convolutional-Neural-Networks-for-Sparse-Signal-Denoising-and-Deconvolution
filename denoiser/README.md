@@ -8,4 +8,6 @@ The MSE between the output signal and the groundtruth as well as the SNR of the 
 
 In addition, the output signal v.s. groundtruth and the output signal v.s. the input signal will be displayed to visually show the firm thresholding. Finally, the filters in the denoiser CNN will be plotted.
 
-The core command of applying the denoiser CNN to the input signal is output = CNN(input, h1);
+The core command of applying the denoiser CNN to the input signal is output = CNN(input, h1); Therefore, you can create your own test signal and test the denoiser CNN on the test signal to evaluate the performance. You can also change the training parameters in the demo as the comment describes to create a new denoiser CNN based on different training data.
+
+
