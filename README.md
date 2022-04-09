@@ -1,0 +1,16 @@
+# Master-Thesis -- Convolutional Neural Networks for Sparse Signal Denoising and Deconvolution
+
+This is the repository for Master thesis in 2022 advised by Professor Ivan Selesnick at NYU Tandon School of Engineering.
+
+This repository intends to save the programs to reproduce the results in the thesis.
+There are four main Matlab program files and several function files as well as .mat files which are necessary to run the main programs.
+Two demos for the denoising and deconvolution tasks are included in the program files.
+There are also programs to metric and show the performance of the denoising and deconvolution CNNs.
+
+## Contents
+
+1. Demo for denoising task
+2. Demo for deconvolution task
+3. Performance metric for the denoising CNN
+4. Performance metric for the deconvolution CNN
+
