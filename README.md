@@ -9,8 +9,8 @@ Other two programs are to metric and show the performance of the denoising and d
 
 ## Contents
 
-1. [Demo for denoising task](/denoiser/demo_denoiser.m)
-2. [Demo for deconvolution task](/denoiser/figures.m)
+1. [Demo for denoising task](/denoiser/README.md)
+2. [Demo for deconvolution task](/denoiser/README.md)
 3. [Performance metric for the denoising CNN](/deconvolver/demo_deconvolver.m)
 4. [Performance metric for the deconvolution CNN](/deconvolver/figures.m)
 
