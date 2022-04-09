@@ -22,7 +22,7 @@ In the thesis, all the experiments were implemented using MATLAB (version 9.9) o
 
 ## List of Matlab program files available in this repository
 
-Following is the list of demos available in this repository. When you run the main programs, you need to download the necessary function files as well as the .m files into the same directory where the main programs are. The figures which show performance of the CNNs will be saved as eps file in the 'figures' directory.
+Following is the list of demos available in this repository. When you run the main programs, you need to download the necessary function files as well as the .mat files into the same directory where the main programs are. The figures which show performance of the CNNs will be saved as eps file in the 'figures' directory.
 
 | Directory Name |              File Name                                          |                                               Description                                               |
 |:--------------:|:---------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
