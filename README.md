@@ -1,4 +1,4 @@
-# Master-Thesis -- Convolutional Neural Networks for Sparse Signal Denoising and Deconvolution
+# Master Thesis -- Convolutional Neural Networks for Sparse Signal Denoising and Deconvolution
 
 This is the repository for Master thesis in 2022 advised by Professor Ivan Selesnick at NYU Tandon School of Engineering.
 
