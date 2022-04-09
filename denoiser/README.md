@@ -10,4 +10,4 @@ In addition, the output signal v.s. groundtruth and the output signal v.s. the i
 
 The core command of applying the denoiser CNN to the input signal is output = CNN(input, h1); Therefore, you can create your own test signal and test the denoiser CNN on the test signal to evaluate the performance. You can also change the training parameters in the demo as the comment describes to create a new denoiser CNN based on different training data.
 
-
+## 
