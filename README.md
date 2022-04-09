@@ -5,7 +5,7 @@ This is the repository for Master thesis in 2022 advised by Professor Ivan Seles
 This repository intends to save the programs to reproduce the results in the thesis.
 There are four main Matlab program files and several function files as well as .mat files which are necessary to run the main programs.
 Two demos for the denoising and deconvolution tasks are included in the program files.
-There are also programs to metric and show the performance of the denoising and deconvolution CNNs.
+Other two programs are to metric and show the performance of the denoising and deconvolution CNNs.
 
 ## Contents
 
