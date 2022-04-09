@@ -2,7 +2,7 @@
 
 ## Demo for denoiser CNN
 
-In this [demo](/demo_denoiser.m), a denoiser CNN is created by the current trained parameters. The denoiser CNN is applied to the input signal, which can be a pure sparse signal, a pure Gaussian noise or a noisy signal. You can decide the type of the input signal as well as the sparsity of the signal and the noise level of the Gaussian noise by setting different parameters in the demo program.
+In this [demo](/denoiser/demo_denoiser.m), a denoiser CNN is created by the current trained parameters. The denoiser CNN is applied to the input signal, which can be a pure sparse signal, a pure Gaussian noise or a noisy signal. You can decide the type of the input signal as well as the sparsity of the signal and the noise level of the Gaussian noise by setting different parameters in the demo program.
 
 The MSE between the output signal and the groundtruth as well as the SNR of the output signal can be calculated. Also, the groundtruth, input signal and output signal will be displayed in different subplots to visually show the denoising results.
 
