@@ -3,6 +3,8 @@
 This is the repository for Master thesis in 2022 advised by [Professor Ivan Selesnick](https://eeweb.engineering.nyu.edu/iselesni/) at NYU Tandon School of Engineering.
 
 This repository intends to save the programs to reproduce the results in the thesis.
+There are two jupyter programs used to train the CNNs with and without constraints, respectively.
+The trained CNNs can be saved as a .mat file which can be evaluated by the following Matlab programs.
 There are four main Matlab program files and several Matlab function files as well as .mat files which are necessary to run the main programs.
 Two demos for the denoising and deconvolution tasks are included in the program files.
 Other two programs are to metric and show the performance of the denoising and deconvolution CNNs.
