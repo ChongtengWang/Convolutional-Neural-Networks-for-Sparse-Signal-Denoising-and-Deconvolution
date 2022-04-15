@@ -8,15 +8,17 @@ Two demos for the denoising and deconvolution tasks are included in the program 
 Other two programs are to metric and show the performance of the denoising and deconvolution CNNs.
 
 ## Contents
-
-1. [Demo for denoising task](/denoiser/README.md)
-2. [Demo for deconvolution task](/deconvolver/README.md)
-3. [Performance metric for the denoising CNN](/denoiser/README.md)
-4. [Performance metric for the deconvolution CNN](/deconvolver/README.md)
+1. [Programs for training the CNN](/training/README.md)
+2. [Demo for denoising task](/denoiser/README.md)
+3. [Demo for deconvolution task](/deconvolver/README.md)
+4. [Performance metric for the denoising CNN](/denoiser/README.md)
+5. [Performance metric for the deconvolution CNN](/deconvolver/README.md)
 
 ## Experimental settings
 
-All the software needed to run the demo and performance programs is [MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml). 
+The training progress is implemented using PyTorch 1.4.0 and Python 3.7. I ran the program on [Google Colab](https://colab.research.google.com/).
+
+All the software needed to run the MATLAB demo and performance programs is [MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml). 
 
 In the thesis, all the experiments were implemented using MATLAB (version 9.9) on a MacBook Pro (Apple M1 Pro).
 
