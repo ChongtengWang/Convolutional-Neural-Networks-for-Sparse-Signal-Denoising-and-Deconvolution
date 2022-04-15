@@ -1,4 +1,4 @@
-# Train the CNN for denoising or deconvolution in PyTorch
+# Train the CNN for denoising and deconvolution in PyTorch
 
 ## Regular training
 
