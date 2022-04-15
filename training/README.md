@@ -2,7 +2,7 @@
 
 ## Regular training
 
-In this [training program](\training\regular_training.ipynb), a 5-layer CNN is trained. 
+In this [training program](/training/regular_training.ipynb), a 5-layer CNN is trained. 
 
 First, a dataset is loaded from Google Drive. 
 For the denoising task, the dataset can be sparse signals (with random sparsities) corrupted by Gaussian noise (with random standard deviations).
@@ -22,7 +22,7 @@ Some training examples are also displayed. The trained CNN is saved as a .mat fi
 
 ## Constrained training
 
-In this [training program](\training\constrained_training.ipynb), a 5-layer CNN is trained. 
+In this [training program](/training/constrained_training.ipynb), a 5-layer CNN is trained. 
 
 First, a dataset is loaded from Google Drive. 
 For the denoising task, the dataset can be sparse signals (with random sparsities) corrupted by Gaussian noise (with random standard deviations).
