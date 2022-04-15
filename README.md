@@ -16,7 +16,7 @@ Other two programs are to metric and show the performance of the denoising and d
 
 ## Experimental settings
 
-The training progress is implemented using PyTorch 1.4.0 and Python 3.7. I ran the program on [Google Colab](https://colab.research.google.com/).
+The training progress can be implemented using PyTorch 1.4.0 and Python 3.7. I ran the program on [Google Colab](https://colab.research.google.com/).
 
 All the software needed to run the MATLAB demo and performance programs is [MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml). 
 
