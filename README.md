@@ -35,9 +35,6 @@ Following is the list of demos available in this repository. When you run the ma
 |    denoiser    |              [figures.mlx](/denoiser/figures.mlx)               |   Matlab real-time script including both codes and outputs          |
 |    denoiser    |              [figures.pdf](/denoiser/figures.pdf)               |   PDF file including both codes and outputs                         |
 |    denoiser    |                [CNN.m](/denoiser/CNN.m)                         |                             Function file: apply the CNN to the input signal                            |
-|    denoiser    |         [CNN_1hiddenlayer.m](/denoiser/CNN_1hiddenlayer.m)      |                          Function file: apply when the CNN has one hidden layer                         |
-|    denoiser    |         [CNN_2hiddenlayer.m](/denoiser/CNN_2hiddenlayer.m)      |                         Function file: apply when the CNN has two hidden layers                         |
-|    denoiser    |         [CNN_3hiddenlayer.m](/denoiser/CNN_3hiddenlayer.m)      |                        Function file: apply when the CNN has three hidden layers                        |
 |    denoiser    |               [ReLU.m](/denoiser/ReLU.m)                        |                                Function file: implement the ReLU function                               |
 |    denoiser    |              [conv1d.m](/denoiser/conv1d.m)                     |                       Function file: implement the convolution function in a layer                      |
 |    denoiser    |         [create_denoiser.m](/denoiser/create_denoiser.m)        |                            Function file: create the simplified denoising CNN                           |
@@ -51,12 +48,8 @@ Following is the list of demos available in this repository. When you run the ma
 |   deconvolver  |              [figures.m](/deconvolver/figures.m)                | Metric and show the performance of the deconvolution CNN. Reproduce the figures and tables in the thesis |
 |   deconvolver  |              [figures.mlx](/deconvolver/figures.mlx)                | Matlab real-time script including both codes and outputs     |
 |   deconvolver  |              [figures.pdf](/deconvolver/figures.pdf)                | PDF file including both codes and outputs                    |
-|   deconvolver  |         [CNN_5hiddenlayer.m](/deconvolver/CNN_5hiddenlayer.m)   |                          Function file: apply when the CNN has 5 hidden layers                          |
 |   deconvolver  |          [conv1d_withplot.m](/deconvolver/conv1d_withplot.m)    |  Function file: implement the convolution function in a layer while plotting the output of each filter  |
 |   deconvolver  |                [CNN.m](/deconvolver/CNN.m)                      |                             The same function as that in denoiser directory                             |
-|   deconvolver  |         [CNN_1hiddenlayer.m](/deconvolver/CNN_1hiddenlayer.m)   |                             The same function as that in denoiser directory                             |
-|   deconvolver  |         [CNN_2hiddenlayer.m](/deconvolver/CNN_2hiddenlayer.m)   |                             The same function as that in denoiser directory                             |
-|   deconvolver  |         [CNN_3hiddenlayer.m](/deconvolver/CNN_3hiddenlayer.m)   |                             The same function as that in denoiser directory                             |
 |   deconvolver  |               [ReLU.m](/deconvolver/ReLU.m)                     |                             The same function as that in denoiser directory                             |
 |   deconvolver  |              [conv1d.m](/deconvolver/conv1d.m)                  |                             The same function as that in denoiser directory                             |
 |   deconvolver  |         [create_denoiser.m](/deconvolver/create_denoiser.m)     |                             The same function as that in denoiser directory                             |
